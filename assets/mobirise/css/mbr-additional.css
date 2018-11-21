@@ -1743,19 +1743,6 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-r75crKEGWQ {
-  padding-top: 90px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/lungs.gif");
-}
-.cid-r75crKEGWQ H1 {
-  text-align: right;
-}
-.cid-r75crKEGWQ .mbr-text,
-.cid-r75crKEGWQ .mbr-section-btn {
-  text-align: right;
-  color: #ffffff;
-}
 .cid-qSAKiqgA5w {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1767,6 +1754,17 @@ body {
 .cid-qSAKiqgA5w H2 {
   text-align: center;
   color: #590e21;
+}
+.cid-ra3fY9phpb {
+  background-image: url("../../../assets/images/lungs.gif");
+}
+.cid-ra3fY9phpb H1 {
+  text-align: right;
+}
+.cid-ra3fY9phpb .mbr-text,
+.cid-ra3fY9phpb .mbr-section-btn {
+  text-align: right;
+  color: #ffffff;
 }
 .cid-quOiI6ugX4 {
   padding-top: 15px;
